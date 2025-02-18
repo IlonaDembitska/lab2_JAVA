@@ -1,4 +1,4 @@
-//Сума цифр двозначного числа
+package Lab21;//Сума цифр двозначного числа
 import java.util.Scanner;
 
 public class lab22 {

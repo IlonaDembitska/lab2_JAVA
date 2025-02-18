@@ -1,3 +1,5 @@
+package Lab21;
+
 //Округлення числа типу double
 public class lab23 {
     public static void main(String[] args) {

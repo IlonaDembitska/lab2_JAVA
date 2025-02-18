@@ -1,3 +1,5 @@
+package Lab21;
+
 //Ділення та залишок від ділення
 public class lab21 {
     public static void main(String[] args) {
